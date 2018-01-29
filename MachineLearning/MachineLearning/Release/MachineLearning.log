@@ -1,0 +1,25 @@
+﻿  main.cpp
+d:\bureau\machinelearning\machinelearning\machinelearning\MatrixDemonstration.h(15): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\MatrixDemonstration.h(16): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(13): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(27): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(28): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(31): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(37): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(38): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(41): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(46): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(47): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\LinearRegression.h(69): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(82): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(105): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(207): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(233): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(305): warning C4018: '<' : incompatibilité signed/unsigned
+d:\bureau\machinelearning\machinelearning\machinelearning\exo2h.h(338): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours
+  465 of 473 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  MachineLearning.vcxproj -> D:\Bureau\MachineLearning\MachineLearning\Release\MachineLearning.exe
