@@ -18,7 +18,7 @@ J'ai donc dû implémenter la propagation avant, puis la propagation arrière, l
 L'objectif premier était la compréhension des réseaux de neuronnes, et de m'assurer que j'avais bien compris les différents concepts.
 
 ## Améliorations
-Afin d'améliorer les prédictions, je pourrai effectuer des transformations sur 
+Afin d'améliorer les prédictions, je pourrai effectuer des transformations sur l'ensemble d'entrainement à chaque itération. Par exemple décaler les images, zoomer, dézoomer, effectuer des légères rotations... 
 
 ## Dans le futur ?
 Beaucoup de nouvelles idées me viennent en tête... Comme par exemple une intelligence qui apprendrait à jouer à un jeu 2D...
