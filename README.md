@@ -10,6 +10,7 @@ http://yann.lecun.com/exdb/mnist/
 Afin de réaliser cette manipulation, je me suis aidé d'un cours de Hugo Larochelle, et également d'un cours de Andrew Ng.
 
 https://www.youtube.com/watch?v=0jh-jlWfKwo
+
 https://www.coursera.org/learn/machine-learning
 
 J'ai donc dû implémenter la propagation avant, puis la propagation arrière, la mise à jour des poids...
@@ -26,4 +27,5 @@ A suivre...
 
 ## Démonstration
 Ici vous pouvez voir une vidéo de démonstration, sur des exemples écrits à la main, en live...
-https://www.youtube.com/watch?v=pfsGbpUeKiM
+[linkname](https://www.youtube.com/watch?v=pfsGbpUeKiM)
+
