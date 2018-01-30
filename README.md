@@ -27,5 +27,5 @@ A suivre...
 
 ## Démonstration
 Ici vous pouvez voir une vidéo de démonstration, sur des exemples écrits à la main, en live...
-[linkname](https://www.youtube.com/watch?v=pfsGbpUeKiM)
 
+https://www.youtube.com/watch?v=pfsGbpUeKiM
