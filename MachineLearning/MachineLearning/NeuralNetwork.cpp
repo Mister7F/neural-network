@@ -83,8 +83,7 @@ void NeuralNetwork::backwardSpread(vector<double> output){
 	BiaisGradient = vector<Matrix>(Layers.size() - 1, Matrix(1,1));
 	
 	BiaisGradient.back() = Matrix::column(output) - Layers.back().transpo();
-	BiaisGradient.back().multiplyItemByItem(derivate(Layers.back()));
-
+	
 	for (int i = BiaisGradient.size() - 2; i >= 0; i--) {
 		
 		BiaisGradient[i] = Links[i + 1] * BiaisGradient[i + 1];
@@ -123,7 +122,7 @@ double NeuralNetwork::sigmoide(double x){
 	return 1. / (1 + pow(2.71828182845904523536, -x));
 }
 
-//Transpose & dérive...
+//Transpose & dÃ©rive...
 Matrix NeuralNetwork::derivate(const Matrix & a){
 	
 	if (a.row() != 1)
